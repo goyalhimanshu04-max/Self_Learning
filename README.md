@@ -13,6 +13,15 @@ This repository contains interactive Jupyter notebooks and exercises for learnin
   - `functions.ipynb`
   - `loops.ipynb`
   - `pattern_questions.ipynb`
+ - `DAY_2/` — Notebooks for Day 2 practice:
+  - `Abstraction.ipynb`
+  - `classes_objects.ipynb`
+  - `Encapsulation.ipynb`
+  - `functions_practice.ipynb`
+  - `Inheritance.ipynb`
+  - `Polymorphism.ipynb`
+ - `DAY_3/` — Notebooks for Day 3 practice:
+  - `Numpy.ipynb`
 
 ## Prerequisites
 
@@ -56,6 +65,13 @@ pip install -r requirements.txt
 - `functions.ipynb` — function definitions, parameters, return values.
 - `loops.ipynb` — `for`/`while` loops and iteration patterns.
 - `pattern_questions.ipynb` — small algorithmic and pattern-printing exercises.
+- `Abstraction.ipynb` — conceptual overview of abstraction in OOP.
+- `classes_objects.ipynb` — creating and using classes and instances.
+- `Encapsulation.ipynb` — access control and data hiding examples.
+- `functions_practice.ipynb` — extra function exercises and drills.
+- `Inheritance.ipynb` — subclassing and method reuse.
+- `Polymorphism.ipynb` — polymorphic behavior and duck typing.
+- `Numpy.ipynb` — basic NumPy array operations and examples.
 
 ## Notes / Next Steps
 
