@@ -73,6 +73,21 @@ pip install -r requirements.txt
 - `Polymorphism.ipynb` — polymorphic behavior and duck typing.
 - `Numpy.ipynb` — basic NumPy array operations and examples.
 
+## Learning Journey
+
+This repository follows a progressive learning path from Python fundamentals up through production-ready machine learning operations (MLOps) and large‑language-model operations (LLMOps). The stages below describe recommended topics and practical milestones.
+
+- **Basics:** Python syntax, data types, control flow (`if`/`else`), functions, and basic I/O. (Covered in `DAY_1` notebooks.)
+- **Intermediate:** Data structures, error handling, modules/packages, file handling, and unit testing. Start building small projects and reusable functions.
+- **Object-Oriented Programming:** Classes, objects, encapsulation, inheritance, and polymorphism (see `DAY_2` notebooks).
+- **Data & Scientific Computing:** Working with `NumPy`, `pandas`, and data visualization (`matplotlib`, `seaborn`) for exploratory data analysis.
+- **Machine Learning Basics:** Supervised/unsupervised learning, model evaluation, and `scikit-learn` workflows. Practice end-to-end experiments and reproducible notebooks.
+- **Deep Learning & LLMs:** Intro to neural networks, PyTorch/TensorFlow basics, training pipelines, and experimenting with transformer models and prompt engineering.
+- **MLOps (Advanced):** Containerization (Docker), experiment tracking, CI/CD for models, model versioning, feature stores, scheduling and orchestration (Airflow/Kubeflow), scalable training and inference, monitoring, and logging.
+- **LLMOps (Advanced):** Deployment and serving of LLMs, prompt/version management, infrastructure for fine-tuning and inference at scale, safety and alignment checks, cost monitoring, and evaluation pipelines.
+
+Suggested next steps: add `requirements.txt` (done), create sample end-to-end notebooks showing dataset → model → deployment, and add a small checklist for reproducible experiments.
+
 ## Notes / Next Steps
 
 - Add `requirements.txt` if you rely on third-party libraries.
